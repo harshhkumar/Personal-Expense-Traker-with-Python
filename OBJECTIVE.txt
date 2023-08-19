@@ -1,0 +1,11 @@
+OBJECTIVE:
+
+The objective of the provided code is to create a simple personal expense tracker program. The program allows users to manage their expenses through a menu-driven interface. The main functionalities of the program include:
+
+1. Adding Expenses: Users can enter the category and amount of an expense. The program stores this information in a list of dictionaries.
+
+2. Viewing Expenses: Users can view a list of recorded expenses, showing the expense category and amount for each entry.
+
+3. Visualizing Expenses: Users can generate a bar chart that visually represents the distribution of expenses by category. This chart provides a clear overview of where the user's expenses are concentrated.
+
+4. Exiting the Program: Users can exit the program when they are done using it.
